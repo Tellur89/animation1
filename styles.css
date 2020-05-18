@@ -1,0 +1,26 @@
+.pole1{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  padding: 5% 10%;
+}
+
+.pole2{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+padding: 18% 21%;
+}
+
+.pole3{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+padding: 8% 16%;
+}
+
+.pionek{
+  position: absolute;
+
+  padding: 25% 25%;
+}
